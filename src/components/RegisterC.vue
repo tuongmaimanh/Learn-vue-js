@@ -100,7 +100,7 @@ input:focus:not([type="submit"]) {
 
 input::placeholder {
 	color: inherit;
-} */
+} 
 
 form .register input {
 	color: #FFF;

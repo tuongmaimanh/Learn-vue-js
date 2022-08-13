@@ -85,7 +85,7 @@ input:focus:not([type="submit"]) {
 
 input::placeholder {
 	color: inherit;
-} */
+} 
 
 
 section form.login {
