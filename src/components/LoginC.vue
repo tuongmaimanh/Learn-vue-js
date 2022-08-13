@@ -14,7 +14,11 @@
 				<input 
 					type="submit" 
 					value="Login" />
-		<router-link to="/register">Register</router-link> 
+		<router-link to="/register" style="text-decoration:none;color:black">Register -></router-link> 
+		<hr>
+		<i>Account admin</i><br>
+		<i>email: admin@gmail.com</i><br>
+		<i>password: admin1234</i>
 			</form>
 		</section>
 	</main>
@@ -112,6 +116,7 @@ form.login input[type="submit"] {
 	cursor: pointer;
 	text-transform: uppercase;
 }
+
 
 
 </style>
